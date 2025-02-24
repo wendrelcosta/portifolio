@@ -57,7 +57,7 @@ body {
         /* Centraliza os itens */
     }
     .footer{
-        width: 700px;
+        width: 838px;
     }
 }
 
@@ -147,6 +147,7 @@ body {
 .footer {
     padding: 10px;
     font-size: 14px;
+    width: 100%;
 }
 
 @media screen and (max-width: 320px) {
