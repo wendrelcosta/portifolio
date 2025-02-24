@@ -41,7 +41,7 @@ body {
 /* Responsividade para telas menores */
 @media (max-width: 768px) {
     body {
-        background-size: contain;
+        background-size: cover;
     }
 
     .container {
@@ -55,6 +55,9 @@ body {
         /* Alinha os elementos na vertical */
         align-items: center;
         /* Centraliza os itens */
+    }
+    .footer{
+        width: 100%;
     }
 }
 
