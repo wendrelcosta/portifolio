@@ -42,8 +42,6 @@ body {
 @media (max-width: 768px) {
     body {
         background-size: cover;
-        width: 100vh;
-        height: 100vw;
     }
 
     .container {
@@ -154,7 +152,6 @@ body {
 @media screen and (max-width: 320px) {
     .body{
         background-size: cover;
-        background-position: top;
     }
     /* Ajusta a largura do perfil e centraliza o conteúdo */
     .perfil {
