@@ -31,7 +31,9 @@ body {
 .container {
     padding: 0 15px;
 }
-
+.info h2{
+    text-align: center;
+}
 /* Responsividade para telas menores */
 @media (max-width: 768px) {
     body {
@@ -432,28 +434,6 @@ section {
     margin-right: 90px;
 
 }
-
-/*botoes de navegação
-.carousel-indicators {
-    display: flex;
-    justify-content: center;
-    margin-top: 10px;
-  }
-  
-.indicator {
-    width: 12px;
-    height: 12px;
-    background-color: gray;
-    border-radius: 50%;
-    display: inline-block;
-    margin: 5px;
-    cursor: pointer;
-  }
-  
-  .indicator.active {
-    background-color: #333;
-    transform: scale(1.2);
-  } */
 
 /* Estilos para o rodapé */
 .footer {
