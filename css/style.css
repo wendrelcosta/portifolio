@@ -57,7 +57,7 @@ body {
         /* Centraliza os itens */
     }
     .footer{
-        margin-left: 80px;
+        margin-left: 290px;
         width: 838px;
         margin: 0 auto 20px;
         /* Centraliza e adiciona margem abaixo */
@@ -236,7 +236,7 @@ body {
         justify-content: center;
     }
     .footer {
-        margin-left: 80px;
+        margin-left: 290px;
         font-size: 10px;
         text-align: center;
         padding: 10px;
