@@ -227,11 +227,16 @@ body {
         padding: 8px 10px;
     }
 
-    footer {
+    .footer p{
+        text-align: center;
+        justify-content: center;
+    }
+    .footer {
         font-size: 10px;
         text-align: center;
         padding: 10px;
-        width: 1000px;
+        width: cover;
+        justify-content: center;
     }
 }
 .perfil {
