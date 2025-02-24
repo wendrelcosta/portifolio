@@ -58,6 +58,9 @@ body {
     }
     .footer{
         width: 838px;
+        margin: 0 auto 20px;
+        /* Centraliza e adiciona margem abaixo */
+        
     }
 }
 
