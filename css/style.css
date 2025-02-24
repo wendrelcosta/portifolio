@@ -42,6 +42,8 @@ body {
 @media (max-width: 768px) {
     body {
         background-size: cover;
+        width: 100vh;
+        height: 100vw;
     }
 
     .container {
@@ -57,7 +59,7 @@ body {
         /* Centraliza os itens */
     }
     .footer{
-        width: 100%;
+        width: 700px;
     }
 }
 
@@ -150,6 +152,10 @@ body {
 }
 
 @media screen and (max-width: 320px) {
+    .body{
+        background-size: cover;
+        background-position: top;
+    }
     /* Ajusta a largura do perfil e centraliza o conteúdo */
     .perfil {
         width: 100%;
@@ -227,6 +233,7 @@ body {
         font-size: 10px;
         text-align: center;
         padding: 10px;
+        width: 838px;
     }
 }
 .perfil {
